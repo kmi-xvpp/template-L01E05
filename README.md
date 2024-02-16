@@ -1,4 +1,4 @@
-# L03E02: Algebra package
+# L01E05: Algebra package
 Vytvořte balíček `algebra` obsahující dva moduly `matrix.py` a `vector.py`. **Nezapomínejte na docstring u funkcí.**
 
 ## Modul `vector.py`
